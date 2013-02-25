@@ -1,3 +1,12 @@
+Note
+====
+
+Don't use this project. It was a quick hack that worked well, but really needed
+to be integrated with graphite. I have filed
+[pull request #158](https://github.com/graphite-project/graphite-web/pull/158)
+which asks for this. Either use the patches in that pull request and apply them
+locally, or wait for the graphite devs to apply them and release a new version.
+
 Url shortener for graphite
 ==========================
 
